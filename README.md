@@ -8,3 +8,8 @@ Eu sou o Robson Barbosa, sou programador Front End, atualmente estou aprendendo 
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
+
+![RobsonBarbosa](https://github-readme-stats.vercel.app/api?username=robsonbarbosa23)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonbarbosa23)](https://github.com/anuraghazra/github-readme-stats)
