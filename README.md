@@ -20,8 +20,14 @@ Para poder me tornar um Desenvolvedor Full Stack :earth_americas: :dart: :rocket
 
 <br/>
 
+Minhas Redes Sociais, entre em contato
+
+<a href="https://instagram.com/robson.oliver21?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/robson-barbosa-pereira-28247b141/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://contate.me/robsonbarbosa"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+<br/>
+
 ![RobsonBarbosa](https://github-readme-stats.vercel.app/api?username=robsonbarbosa23)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonbarbosa23)](https://github.com/anuraghazra/github-readme-stats)
+[![RobsonBarbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonbarbosa23)](https://github.com/anuraghazra/github-readme-stats)
